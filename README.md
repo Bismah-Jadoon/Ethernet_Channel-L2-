@@ -1,8 +1,6 @@
 # Ethernet_Channel-L2-
-Here's an updated README file that includes details about the **logical link (EtherChannel)** and its benefits.
 
 ---
-
 # ** Network Configuration Details**
 
 This document provides a complete guide to the network configuration, including Spanning Tree Protocol (STP) setup, EtherChannel configuration, logical link concepts, and testing procedures.
