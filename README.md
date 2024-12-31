@@ -41,7 +41,7 @@ EtherChannel allows bundling multiple physical links into a **logical link**, im
    ```bash
    M1(config-if-range)#channel-group 1 mode desirable
    ```
-   - The `desirable` mode enables **LACP** (Link Aggregation Control Protocol), which actively negotiates EtherChannel formation.
+   - The `desirable` mode enables **PAgp** (Port Aggregation Protocol), which actively negotiates EtherChannel formation.
 
 3. **Configure Interfaces as Trunk Ports:**
    ```bash
